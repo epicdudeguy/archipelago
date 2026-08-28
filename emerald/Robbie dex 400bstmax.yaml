@@ -471,10 +471,10 @@ Pokemon Emerald:
   - Zapdos
   trainer_parties: completely_random
   trainer_party_blacklist: []
-  force_fully_evolved: '100'
+  force_fully_evolved: '25'
   legendary_encounters: vanilla
   misc_pokemon: vanilla
-  types: vanilla
+  types: follow_evolutions
   abilities: follow_evolutions
   ability_blacklist: Wonder Guard
   level_up_moves: start_with_four_moves
@@ -498,7 +498,7 @@ Pokemon Emerald:
   remove_roadblocks: []
   extra_boulders: 'false'
   extra_bumpy_slope: 'false'
-  modify_118: 'false'
+  modify_118: 'true'
   free_fly_location: 'false'
   free_fly_blacklist:
   - Littleroot Town
